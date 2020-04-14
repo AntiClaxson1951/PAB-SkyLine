@@ -3,7 +3,7 @@ Sistema operativo libre multiplataforma basado en UNIX con micronucleo creado en
 
 El objetivo de este sistema operativo es servirse como alternativa para reemplazar sistemas operativos privativos, y tambien darle buena seguridad y conformidad
 
-Este sistema operativo tambien traera sus programas:
+# Este sistema operativo tambien traera sus programas:
 -Interfaz grafica: Tiffania
 -Entorno de desarrollo: PAB Marinetta
 -Programa de animacion 3D, edicion de video y creacion de videojuegos: Blender-ObjC
