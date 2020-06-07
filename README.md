@@ -3,6 +3,11 @@ Sistema operativo libre multiplataforma basado en UNIX con micronucleo creado en
 
 El objetivo de este sistema operativo es servirse como alternativa para reemplazar sistemas operativos privativos, y tambien darle buena seguridad y conformidad
 
+# Esta creado con estos lenguajes de programacion
+-Nucleo: Lenguaje Ensamblador
+-Programas: Objective-C, Swift y Vala
+-Drivers: C
+
 # Este sistema operativo tambien traera sus programas:
 -Interfaz grafica: Tiffania
 -Entorno de desarrollo: PAB Marinetta
